@@ -106,10 +106,8 @@ The app will add prediction results as new columns to your file.
 st.info("""
 **File Requirements:**
 - Must be a CSV file (`.csv`).
-- Must contain columns corresponding to the features used in the model training.
-- The column names should match the original dataset (e.g., 'Age', 'Gender', 'Department', 'MonthlyIncome', etc.).
-- You do *not* need to include the 'Attrition' column if you are predicting on new data.
-- Columns that were dropped during training ('EmployeeCount', 'StandardHours', 'Over18', 'MonthlyRate', 'HourlyRate') are not required.
+- Must be in Data format provided by company's data science team
+- For internal use only - HR department
 """)
 
 uploaded_file = st.file_uploader("Upload Employee Data CSV", type="csv")
