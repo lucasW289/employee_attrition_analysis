@@ -104,9 +104,7 @@ The app will add prediction results as new columns to your file.
 """)
 st.info("""
 **Testing Dummy Data in Github Reop "DummyTestingData.csv"**
-- Must be a CSV file (`.csv`).
-- Must be in Data format provided by company's data science team
-- For internal use only - HR department
+
 """)
 st.info("""
 **File Requirements:**
