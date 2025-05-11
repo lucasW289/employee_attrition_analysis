@@ -197,12 +197,6 @@ st.sidebar.info(
     Upload a CSV, and the app will add predictions using the trained model.
     """
 )
-st.sidebar.header("Required Files")
-st.sidebar.warning("""
-Ensure the following files are in the same directory as 'app_batch.py':
-- `employee_attrition_model.pkl`
-- `scaler.pkl`
-- `categorical_mappings.pkl`
-""")
+
 st.sidebar.markdown("---")
 st.sidebar.write("Created with Streamlit")
