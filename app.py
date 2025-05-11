@@ -6,8 +6,8 @@ import os
 import base64 # Required for file download link
 
 # Set page configuration
-st.set_page_config(page_title="Project2_Group17", layout="wide")
-st.set_page_config(page_title="Employee Attrition Batch Predictor", layout="wide")
+
+st.set_page_config(page_title="Project2_Group17\nEmployee Attrition Batch Predictor", layout="wide")
 
 # --- Load the trained model, scaler, and mappings ---
 # Use st.cache_resource to load the large objects only once across reruns
