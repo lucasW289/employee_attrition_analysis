@@ -96,7 +96,7 @@ def preprocess_input_batch(df: pd.DataFrame, scaler, categorical_mappings, featu
     return scaled_df, df # Return the scaled features and the original df (for adding results later)
 
 # --- Streamlit App Interface ---
-st.title("📦 Employee Attrition Batch Prediction")
+st.title("Project2_Group17\n📦 Employee Attrition Batch Prediction")
 
 st.write("""
 Upload a CSV file containing employee data to get attrition predictions for the entire batch.
