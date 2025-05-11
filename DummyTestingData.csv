@@ -1,0 +1,4 @@
+Age,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+30,Travel_Rarely,850,Sales,5,3,Marketing,100,4,Male,3,2,Sales Executive,3,Married,6500,2,No,14,3,4,1,5,2,3,4,2,1,3
+45,Travel_Frequently,1200,Research & Development,15,4,Life Sciences,101,3,Female,4,3,Research Scientist,4,Divorced,8000,5,Yes,18,4,3,2,15,4,4,10,7,3,8
+25,Non-Travel,600,Human Resources,2,2,Human Resources,102,2,Male,1,1,Human Resources,2,Single,3500,1,No,11,3,2,0,2,1,2,2,2,0,1
